@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Cat-energy
 - 🌱 I’m currently learning in HTML Academy
 - 🤔 I’m looking for help with Java Script
-- 📫 How to reach me: varandez@gmai.com
+- 📫 How to reach me: varandez@gmail.com
 - 😄 Pronouns: I, you, he, she - together the whole country.
 - ⚡ Fun fact: A typesetter's fingers “run” 20 km a day on average.
 
