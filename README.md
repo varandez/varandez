@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Java Script
 - 📫 How to reach me: varandez@gmail.com
 - 😄 Pronouns: I, you, he, she - together the whole country.
-- ⚡ Fun fact: A typesetter's fingers “run” 20 km a day on average.
+- ⚡ Fun fact: A typesetter's fingers &laquo;run&raquo; 20 km a day on average.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - - 💬 Ask me about ... -->
