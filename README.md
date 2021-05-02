@@ -5,8 +5,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Cat-energy
-- 🌱 I’m currently learning in HTML Academy
+- 🔭 I’m currently working at Tinkoff Journal
+- 🌱 I’m currently learning in learn.javascript
 - 🤔 I’m looking for help with Java Script
 - 📫 How to reach me: varandez@gmail.com
 - 😄 Pronouns: I, you, he, she - together the whole country.
