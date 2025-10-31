@@ -5,12 +5,12 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working at Tinkoff Journal
-- 🌱 I’m currently learning in learn.javascript
-- 🤔 I’m looking for help with Java Script
-- 📫 How to reach me: varandez@gmail.com
-- 😄 Pronouns: I, you, he, she - together the whole country.
-- ⚡ Fun fact: A typesetter's fingers &laquo;run&raquo; 20 km a day on average.
+- 🔭 I’m currently working as Operations Manager at T-Bank
+- 🌱 I’m currently studying Business Informatics at GUAP
+- 📫 How to reach me: a-vik-ivanov@yandex.ru
+- 📢 Telegram channel: [@andreivanov_channel](https://t.me/andreivanov_channel)
+- 🎮 Latest project: [Race to University](https://t.me/SurvivalStudentGameBot) - Telegram game about student life balance
+- ⚡ Fun fact: My fingers "run" about 20 km a day while typing
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - - 💬 Ask me about ... -->
